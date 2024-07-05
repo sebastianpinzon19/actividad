@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Models.BateadorDesignado">
+    <Position X="13.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAABAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BateadorDesignado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Jugador">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAACAgAAEgAAAAAAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.JugadorDePosicion">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAABAAAAAQAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>JugadorDePosicion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Pitcher">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAgAAACIAAAAgAAAAAAA=</HashCode>
+      <FileName>Pitcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
