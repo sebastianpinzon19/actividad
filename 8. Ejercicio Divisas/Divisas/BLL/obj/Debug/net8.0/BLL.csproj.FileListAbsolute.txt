@@ -1,0 +1,22 @@
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Andre\Desktop\Guia01\Divisas\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Andre\Desktop\Guia01\Ejercicio Divisas\Divisas\BLL\obj\Debug\net8.0\ref\BLL.dll
